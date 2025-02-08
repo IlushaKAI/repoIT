@@ -1,0 +1,8 @@
+a {
+    color: #3458db; /* Set a default link color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
