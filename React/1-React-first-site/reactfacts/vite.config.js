@@ -5,5 +5,5 @@ export default defineConfig({
 	plugins: [
 		react()
 	],
-	base: "/repoIT/reactfacts/",
+	base: "/repoIT/reactfacts",
 })
